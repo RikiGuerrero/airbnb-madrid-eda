@@ -6,7 +6,7 @@
 
 ## 2) Dataset
 - **Fuente:** [Inside Airbnb – Madrid](http://insideairbnb.com/) (`listings.csv`)
-- **Filas/columnas:** 25.000 listados × 75 columnas originales (reducidas a 13 variables clave tras selección).
+- **Filas/columnas:** 25.000 filas × 75 columnas originales (reducidas a 13 variables clave tras selección).
 - **Variables clave:**
   | Variable | Descripción |
   |---|---|
